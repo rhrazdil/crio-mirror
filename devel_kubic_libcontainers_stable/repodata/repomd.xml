@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+  <revision>1612609911</revision>
+  <tags>
+    <repo>obsrepository://build.opensuse.org/devel:kubic:libcontainers:stable/CentOS_8_Stream</repo>
+    <repo>obsbuildid:1580234583</repo>
+  </tags>
+  <data type="primary">
+    <checksum type="sha256">f61de822ff36f15d4df5559b94b14321bec3ae15eec850ff0bd03936f7cc8252</checksum>
+    <open-checksum type="sha256">f92a56416aa5192a33593ffff25c179446e75a208c6b1b88a7a8a8c53e217648</open-checksum>
+    <location href="repodata/f61de822ff36f15d4df5559b94b14321bec3ae15eec850ff0bd03936f7cc8252-primary.xml.gz"/>
+    <timestamp>1612609911</timestamp>
+    <size>21545</size>
+    <open-size>207078</open-size>
+  </data>
+  <data type="filelists">
+    <checksum type="sha256">cb2d948ecea0e11a7bede77e3d2c9b8759cc24d192c03dc8f6397b663fa34c1f</checksum>
+    <open-checksum type="sha256">8ae0f8570e4596a643ce893fe3b346b986773dd9ae64766eacdd23e378afbb77</open-checksum>
+    <location href="repodata/cb2d948ecea0e11a7bede77e3d2c9b8759cc24d192c03dc8f6397b663fa34c1f-filelists.xml.gz"/>
+    <timestamp>1612609911</timestamp>
+    <size>49005</size>
+    <open-size>688945</open-size>
+  </data>
+  <data type="other">
+    <checksum type="sha256">3f48ca2d8748b27da6f7a0083fb7a47fe07d30b51b5affd4f8cb8290cb7d79e0</checksum>
+    <open-checksum type="sha256">50353697884ff854eb949cf0c73a71917576ec0897fbc5a74864919de6a89e42</open-checksum>
+    <location href="repodata/3f48ca2d8748b27da6f7a0083fb7a47fe07d30b51b5affd4f8cb8290cb7d79e0-other.xml.gz"/>
+    <timestamp>1612609911</timestamp>
+    <size>14638</size>
+    <open-size>283364</open-size>
+  </data>
+</repomd>
