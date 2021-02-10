@@ -1,0 +1,6 @@
+[rhrazdil_devel_kubic_libcontainers_stable_cri-o_1.20]
+name=rhrazdil:devel:kubic:libcontainers:stable:cri-o:1.20 (CentOS_8_Stream)
+type=rpm-md
+baseurl=https://rhrazdil.github.io/crio-mirror/devel_kubic_libcontainers_stable_cri-o_1.20
+gpgcheck=0
+enabled=1
